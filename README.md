@@ -10,4 +10,4 @@ Such solutions could be used by banking, insurance companies, or social media in
 ## Evaluation
 The metric for the classification tasks will be Accuracy.
 
-## Model Descriptions
+## Models Description
